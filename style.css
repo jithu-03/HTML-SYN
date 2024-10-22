@@ -1,0 +1,20 @@
+#txt {
+    border: 3px;
+    color: rgb(255, 105, 6);
+    background-color: rgb(10, 10, 2);
+}
+#txt2{
+    border: 3px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 11, 231);
+}
+.division{
+    border: 3px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 7, 7);
+}
+.division2{
+    border: 3px;
+    color: rgb(255, 6, 201);
+    background-color: rgba(0, 0, 0, 0.726);
+}
